@@ -18,7 +18,7 @@
 - 🔭 현재 **AI 기반 주식 포트폴리오 관리 시스템** 개발 중
 - 🌱 **Deep Learning**, **Cloud Computing** 학습 중
 - 💬 **React Native**, **Spring Boot**, **머신러닝** 관련 같이 공부하고 토론해요
-- 📫 연락처: **sh000917@gmail.com**
+- 📫 연락처: **kastor0323@gmail.com**
 
 ## 🛠 주요 기술 스택
 
@@ -29,14 +29,6 @@
   <img alt="Spring Data JPA" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge"/>
-</p>
-
-### 🤖 AI & Data Science
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ### 🛠 Tools & Others
@@ -111,20 +103,19 @@
 ### 📚 2025년 학습 계획
 - [x] **정보처리기사** 자격증 준비 중 🔥
 - [ ] **Spring Boot** 심화 학습
-- [ ] **React Native** 성능 최적화 기법
+- [ ] **Docker 및 AWS VPC** 배포 과정 학습
 - [ ] **AI/ML** 프로젝트 경험 확대
-- [ ] **클라우드 서비스** 기초 학습
 
 ### 🏅 자격증 현황
 - [ ] **정보처리기사** (준비 중)
-- [ ] **추가 자격증** (정보처리기사 취득 후 계획 예정)
+- [ ] **SQLD** (정보처리기사 취득 후 계획 예정)
 
 ## 📫 연락처 및 소셜미디어
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sh000917@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh000917@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sehyun00.github.io)
+[![Email](https://img.shields.io/badge/Email-sh000917@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kastor0323@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://kastor0323.github.io)
 
 </div>
 
@@ -134,7 +125,7 @@
   
 ### 🌟 Thanks for visiting my profile! 🌟
 
-<img src="https://komarev.com/ghpvc/?username=sehyun00&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=kastor0323&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 
