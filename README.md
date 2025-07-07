@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-> **풀스택 개발자**로서 **AI/ML**과 **모바일 앱 개발**에 특화된 개발자입니다.  
-> 특히 **React Native**, **Spring Boot**, **머신러닝** 기술을 활용한 실무 프로젝트 경험이 풍부합니다.
+> **백엔드 개발자**로서 **웹 개발**과 **DataBase 설계**에 특화된 개발자입니다.  
+> 특히 **Spring Boot**, **MySQL** 기술을 활용한 실무 프로젝트 경험이 풍부합니다.
 
 - 🔭 현재 **AI 기반 주식 포트폴리오 관리 시스템** 개발 중
 - 🌱 **Deep Learning**, **Cloud Computing** 학습 중
-- 💬 **React Native**, **Spring Boot**, **머신러닝** 관련 같이 공부하고 토론해요
+- 💬 **Spring Boot**, **PostgreSQL**, **머신러닝** 관련 같이 공부하고 토론해요
 - 📫 연락처: **kastor0323@gmail.com**
 
 ## 🛠 주요 기술 스택
@@ -49,14 +49,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Team-우상향(4명)-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Role-팀장%20%26%20프론트엔드-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-부팀장%20%26%20백엔드-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Type-기업연계%20프로젝트-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🏆%20동상%20수상-gold?style=for-the-badge"/>
 </div>
 
 **🔧 사용 기술:**
 - **Frontend**: React Native, Expo, JavaScript, Data Visualization
-- **Backend**: Spring Boot, Java, RESTful API Design  
+- **Backend**: Spring Boot, Java, RESTful API Design, Redis, Flask
 - **AI/ML**: GNN(Graph Neural Network), DRL(Deep Reinforcement Learning), LPPLS Model
 - **External APIs**: CODEF API (계좌 정보), Kakao API (로그인)
 - **Database**: MySQL, PostgreSQL
@@ -71,7 +71,6 @@
 **🏆 성과:**
 - 🥉 **SW중심대학사업단 기업연계 프로젝트 경진대회 동상 수상**
 - 포트폴리오 최적화 정확도 **85%** 달성
-- 팀 "**우상향**" 리더로서 프로젝트 성공적 완수
 
 ## 💼 기타 프로젝트
 
