@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeHyun&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JungHyun&fontSize=90" />
 </div>
 
 <div align="center">
   
-# 안녕하세요, 개발자 김세현입니다 👋
+# 일상을 바꾸어 더 나은 세상을 만드는, 백엔드 개발자 백정현입니다 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Mobile+App+Developer;Spring+Boot+Developer)](https://git.io/typing-svg)
 
