@@ -6,7 +6,7 @@
   
 # 일상을 바꾸어 더 나은 세상을 만드는, 백엔드 개발자 백정현입니다 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F70000&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Spring+Boot+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Spring+Boot+Developer)](https://git.io/typing-svg)
 
 </div>
 
