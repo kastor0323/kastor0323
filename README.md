@@ -115,7 +115,7 @@
 
 <!-- 프로필 조회수 -->
 <img
-  src="https://komarev.com/ghpvc/?username=kastor0323&label=Profile%20views&style=flat-square&color=blueviolet"
+  src="https://visitor-badge.laobi.icu/badge?page_id=kastor0323&left_color=blue&right_color=violet"
   alt="Profile Views"
 />
 
