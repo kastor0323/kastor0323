@@ -74,14 +74,14 @@
 
 ## 💼 기타 프로젝트
 
-### 📱 [저시력자 날씨 알림 앱 애플리케이션](https://github.com/sehyun00/C_Project)
+### 📱 [저시력자 날씨 알림 앱 애플리케이션](https://github.com/kastor0323/WeatherSearchAPP.git)
 > **시각장애인을 위한 접근성 중심 날씨 정보 서비스**
 - **기술**: JavaScript, React, Expo, Python, Weather API, GPS, TTS
 - **특징**: 음성 기반 날씨 정보 제공, GPS 위치 기반 서비스, 저시력자 UI/UX 최적화
 - **성과**: WBS 기반 체계적 문서화, Git 협업 경험, API 연동 구현
 - **개발기간**: 2024.03 ~ 2024.06 (3개월, 팀 프로젝트)
 
-### 👥 [인사관리 프로그램](https://github.com/sehyun00/C_Project)
+### 👥 [인사관리 프로그램](https://github.com/kastor0323/HRM-with-JAVA)
 > **Java GUI 기반 인사정보 관리 시스템**
 - **기술**: Java, MySQL, Java GUI 라이브러리
 - **특징**: 직급별 권한 관리, 사원 CRUD 기능, 다중 검색 조건 지원
