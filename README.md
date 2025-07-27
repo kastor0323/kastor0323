@@ -117,7 +117,7 @@
   
 ### 🌟 Thanks for visiting my profile! 🌟
 
-<img src="https://komarev.com/ghpvc/?username=kastor0323&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kastor0323&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 
