@@ -75,23 +75,21 @@
 ## 💼 기타 프로젝트
 
 ### 📱 [저시력자 날씨 알림 앱 애플리케이션](https://github.com/sehyun00/C_Project)
-> **C언어 TCP 소켓 기반 멀티스레드 서버-클라이언트 시스템**
+> **시각장애인을 위한 접근성 중심 날씨 정보 서비스**
 - **기술**: JavaScript, React, Expo, Python, Weather API, GPS, TTS
-- **특징**: 최대 10명 동시 접속, 실시간 데이터 캐싱, 공약 평가 시스템
-- **개발기간**: 2025.05.21 ~ 2025.06.18 (개인 프로젝트)
+- **특징**: 음성 기반 날씨 정보 제공, GPS 위치 기반 서비스, 저시력자 UI/UX 최적화
+- **성과**: WBS 기반 체계적 문서화, Git 협업 경험, API 연동 구현
+- **개발기간**: 2024.03 ~ 2024.06 (3개월, 팀 프로젝트)
+
+### 👥 [인사관리 프로그램](https://github.com/sehyun00/C_Project)
+> **Java GUI 기반 인사정보 관리 시스템**
+- **기술**: Java, MySQL, Java GUI 라이브러리
+- **특징**: 직급별 권한 관리, 사원 CRUD 기능, 다중 검색 조건 지원
+- **성과**: 첫 프로젝트로 개발의 재미 발견, Java 기반 개발 역량 확인
+- **개발기간**: 2023.09 ~ 2023.12 (3개월, 개인 프로젝트)
 
 ---
-📱 저시력자 날씨 알림 앱 애플리케이션
-시각장애인을 위한 접근성 중심 날씨 정보 서비스
 
-<div align="center"> <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/Team-3명-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Role-팀장%20%26%20풀스택-orange?style=for-the-badge"/> </div>
-기술: JavaScript, React, Expo, Python, Weather API, GPS, TTS
-
-특징: 음성 기반 날씨 정보 제공, GPS 위치 기반 서비스, 저시력자 UI/UX 최적화
-
-성과: WBS 기반 체계적 문서화, Git 협업 경험, API 연동 구현
-
-개발기간: 2024.03 ~ 2024.06 (3개월, 팀 프로젝트)
 
 ### 🌟 향후 계획
 
