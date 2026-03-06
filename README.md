@@ -92,7 +92,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-kastor0323@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kastor0323@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)]([https://www.notion.so/14afed3855358059b86ac7474359c3bf?source=copy_link](https://generated-tower-4d1.notion.site/14afed3855358059b86ac7474359c3bf))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://generated-tower-4d1.notion.site/14afed3855358059b86ac7474359c3bf)
+
 
 </div>
 
