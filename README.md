@@ -24,7 +24,7 @@
 ## 🛠 주요 기술 스택
 
 <p align="center">
-  <img src=https://streak-stats.demolab.com?user=kastor0323&theme=vue-dark&hide_border=true&locale=ko&exclude_days=Sun%2CSat)/>
+  <img src ="https://github-readme-stats.vercel.app/api?username=kastor0323&theme=vue-dark&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastor0323&theme=vue-dark&hide_border=true" />
 </p>
 
