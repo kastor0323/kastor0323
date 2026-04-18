@@ -22,23 +22,8 @@
 
 ## 🛠 주요 기술 스택
 
-### Main Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,spring,java,mysql" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kastor0323)](https://github.com/anuraghazra/github-readme-stats)
 
-### Other Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,redis,jenkins,grafana" />
-    <br>    
-    <img src="https://skillicons.dev/icons?i=notion,figma,postman,idea" />
-    <br>    
-    <img src="https://skillicons.dev/icons?i=js,vue,html,css" />
-  </a>
-</p>
 <div align="center">
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kastor0323&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
