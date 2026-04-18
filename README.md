@@ -19,14 +19,13 @@
 - 🌱 **Deep Learning**, **Cloud Computing** 학습 중
 - 💬 **Spring Boot**, **PostgreSQL**, **머신러닝** 관련 같이 공부하고 토론해요
 - 📫 이메일: **kastor0323@gmail.com**
+</div>
 
 ## 🛠 주요 기술 스택
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kastor0323)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kastor0323&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kastor0323)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
