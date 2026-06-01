@@ -68,7 +68,7 @@
 > **주문-매칭-정산을 하나의 흐름으로 연결한 트레이딩 코어 백엔드**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-진행중-brightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-완료-brightblue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Type-오픈소스%20포트폴리오-9cf?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Role-메인테이너-important?style=for-the-badge"/>
 </div>
@@ -80,11 +80,11 @@
 - **Deployment**: Docker, Kubernetes (로컬 데모 + EKS 운영 가정)
 
 **✨ 핵심 설계:**
-- 📝 **Ledger-first 아키텍처**: `ledger_entry`를 SSOT(Single Source of Truth)로 설정
-- 🔄 **Event-driven 거래 처리**: Kafka 기반 비동기 주문 처리 파이프라인
-- 🔗 **역할 분리**: API(주문), Worker(매칭), Risk(원장), Clearing(정산), Projection(조회용 뷰)
-- 🔐 **정산과 대사 분리**: Clearing(계산) vs Recon(검증)의 독립적 처리
-- ⚡ **성능 검증**: 대용량 75,000 ledger entries 배치 처리 완료
+- **Ledger-first 아키텍처**: `ledger_entry`를 SSOT(Single Source of Truth)로 설정
+- **Event-driven 거래 처리**: Kafka 기반 비동기 주문 처리 파이프라인
+- **역할 분리**: API(주문), Worker(매칭), Risk(원장), Clearing(정산), Projection(조회용 뷰)
+- **정산과 대사 분리**: Clearing(계산) vs Recon(검증)의 독립적 처리
+- **성능 검증**: 대용량 75,000 ledger entries 배치 처리 완료
 
 **🏆 성과:**
 - `api -> worker -> projection -> risk -> clearing/recon` 전체 흐름 검증 완료
@@ -104,7 +104,7 @@
 > **자기소개서 평가 및 분석 플랫폼 (자소서 AI 분석)**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-개발중-brightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-완료-brightblue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Type-개인프로젝트-yellowgreen?style=for-the-badge"/>
 </div>
 
@@ -115,11 +115,11 @@
 - **Database**: PostgreSQL, Redis
 
 **✨ 주요 기능:**
-- 🤖 AI 기반 자기소개서 작성 지도 및 평가
-- 📝 실시간 피드백 및 개선 방안 제시
-- 📊 자소서 강점/약점 분석 및 개선 포인트 추천
-- 🎯 직무별/기업별 자소서 최적화 제안
-- 📈 작성 이력 관리 및 개선도 추적
+- AI 기반 자기소개서 작성 지도 및 평가
+- 실시간 피드백 및 개선 방안 제시
+- 자소서 강점/약점 분석 및 개선 포인트 추천
+- 직무별/기업별 자소서 최적화 제안
+- 작성 이력 관리 및 개선도 추적
 
 **🏆 성과:**
 - 사용자 중심 UX 설계로 직관적인 평가 인터페이스 제공
@@ -145,14 +145,16 @@
 ## 🎯 목표 및 학습 계획
 
 ### 📚 2026년 학습 계획
-- [x] **정보처리기사** 자격증 준비 중 🔥
-- [x] **Spring Boot** 심화 학습
-- [x] **Docker** 배포 과정 학습
 - [ ] **국민은행 부트캠프** 수료 실무 경험 확대
+- [ ] **취업 하기**
+- [ ] **스크래핑과 바이브 코딩 경험 확대**
 
 ### 🏅 자격증 현황
 - [x] **정보처리기사** 
 - [x] **SQLD**
+- [ ] **OPIC**
+- [ ] **Adsp**
+- [ ] **빅데이터분석기사**
 
 ## 📫 연락처 및 소셜미디어
 
