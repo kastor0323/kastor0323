@@ -21,11 +21,14 @@
 - 📫 이메일: **kastor0323@gmail.com**
 </div>
 
+![Programmers Badge](https://raw.githubusercontent.com/kastor0323/Programmers_Badge_Generator/main/result/result.svg)
+
 ## 🛠 주요 기술 스택
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=kastor0323&theme=vue-dark&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kastor0323&theme=vue-dark&hide_border=true" />
+﻿<p align="center">
+  <a href="https://github.com/kastor0323">
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kastor0323&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
+  </a>
 </p>
 
 ## 🚀 주요 프로젝트
