@@ -26,7 +26,8 @@
 ## 🛠 주요 기술 스택
 
 ﻿<p align="center">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=kastor0323&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
+  <a href="https://github.com/kastor0323">
+    <img src="https://github-readme-stats-one-rouge-90.vercel.app/api/top-langs/?username=kastor0323&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
   </a>
 </p>
 
