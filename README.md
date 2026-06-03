@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kastor0323/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" />
+  <img src="https://raw.githubusercontent.com/kastor0323/github-programmers-rank/main/result/result.svg" alt="Programmers Badge" />
 </div>
 
 ## 🛠 주요 기술 스택
