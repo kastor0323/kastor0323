@@ -15,10 +15,9 @@
 > **백엔드 개발자**로서 **웹 개발**과 **DataBase 설계**에 특화된 개발자입니다.  
 > 특히 **Spring Boot**, **MySQL** 기술을 활용한 실무 프로젝트 경험이 풍부합니다.
 
-- 🔭 현재 **AI 기반 주식 포트폴리오 관리 시스템** 개발 중
-- 🌱 **Deep Learning**, **Cloud Computing** 학습 중
-- 💬 **Spring Boot**, **PostgreSQL**, **머신러닝** 관련 같이 공부하고 토론해요
-- 📫 이메일: **kastor0323@gmail.com**
+- 🔭 현재 **KB국민은행 IT's Your Life 7시** 수료 중
+- 💬 **Spring Boot**, **운영체제**, **MySQL** 관련 같이 공부하고 토론해요
+- 📫 이메일: **sanchezbeak@gmail.com**
 </div>
 
 <div align="center">
@@ -146,7 +145,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-kastor0323@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kastor0323@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sanchezbeak@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kastor0323@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://generated-tower-4d1.notion.site/14afed3855358059b86ac7474359c3bf)
 
 
