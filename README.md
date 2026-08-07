@@ -15,7 +15,7 @@
 > **백엔드 개발자**로서 **웹 개발**과 **DataBase 설계**에 특화된 개발자입니다.  
 > 특히 **Spring Boot**, **MySQL** 기술을 활용한 실무 프로젝트 경험이 풍부합니다.
 
-- 🔭 현재 **KB국민은행 IT's Your Life 7시** 수료 중
+- 🔭 현재 **IAM 철도 ERP 개발** 근무 중
 - 💬 **Spring Boot**, **운영체제**, **MySQL** 관련 같이 공부하고 토론해요
 - 📫 이메일: **sanchezbeak@gmail.com**
 </div>
@@ -26,11 +26,6 @@
 
 ## 🛠 주요 기술 스택
 
-<p align="center">
-  <a href="https://github.com/kastor0323">
-    <img src="https://github-readme-stats-one-rouge-90.vercel.app/api/top-langs/?username=kastor0323&langs_count=10&layout=compact&theme=dark" alt="Top Langs" />
-  </a>
-</p>
 
 ## 🚀 주요 프로젝트
 
@@ -130,9 +125,7 @@
 ## 🎯 목표 및 학습 계획
 
 ### 📚 2026년 학습 계획
-- [ ] **국민은행 부트캠프** 수료 실무 경험 확대
-- [ ] **취업 하기**
-- [ ] **스크래핑과 바이브 코딩 경험 확대**
+
 
 ### 🏅 자격증 현황
 - [x] **정보처리기사** 
